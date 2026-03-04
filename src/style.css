@@ -2,3 +2,16 @@
 .card {
   border-radius: 20px;
 }
+
+.heart .top, .heart .bottom, .heart .number {
+  color:red
+}
+.diamond .top, .diamond .bottom, .diamond .number {
+  color:red
+}
+.spade .top, .spade .bottom, .spade .number {
+  color:black
+}
+.club .top, .club .bottom, .club .number {
+  color:black
+}
